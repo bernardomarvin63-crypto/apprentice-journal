@@ -16,4 +16,4 @@ This is more than installation — it's the foundation every line of code I writ
 
 ## Day 2 — Day 1 Review
 
-May 28, 2026, today I reviewed everything I was taught and went deeper with the previous including all the errors I made.
+May 28, 2026, today I reviewed everything I was taught and went deeper with the previous lessons including all the errors I made.
