@@ -13,3 +13,7 @@ Today I set up my development environment from scratch:
 - Created this repository
 
 This is more than installation — it's the foundation every line of code I write from here will live on.
+
+## Day 2 — Day 1 Review
+
+May 28, 2026, today I reviewed everything I was taught and went deeper with the previous including all the errors I made.
