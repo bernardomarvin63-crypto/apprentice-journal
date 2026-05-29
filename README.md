@@ -16,4 +16,8 @@ This is more than installation — it's the foundation every line of code I writ
 
 ## Day 2 — Day 1 Review
 
-May 28, 2026, today I reviewed everything I was taught and went deeper with the previous lessons including all the errors I made.
+May 28, 2026, today, I reviewed everything I was taught and went deeper with the previous lessons including all the errors I made.
+
+## Day 3 — Day 1 Review and More
+
+May 29, 2026, today, I did what I did yesterday and read the article “What is Version Control?” from Atlassian.com. I will re-read it tomorrow, and I may also re-read it tonight.
