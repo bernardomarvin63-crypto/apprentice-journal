@@ -1,10 +1,10 @@
 [
   {
     "amount": 250,
-    "catergory": "groceries"
+    "category": "groceries"
   },
   {
     "amount": 1500,
-    "catergory": "fuel"
+    "category": "fuel"
   }
 ]

@@ -5,8 +5,8 @@ expenses = load_expenses()
 print("Loaded: ", expenses)
 
 # Add a fake expense and save
-expenses.append({"amount": 250, "catergory": "groceries"})
-expenses.append({"amount": 1500, "catergory": "fuel"})
+expenses.append({"amount": 250, "category": "groceries"})
+expenses.append({"amount": 1500, "category": "fuel"})
 save_expenses(expenses)
 print("Saved 2 expenses.")
 
